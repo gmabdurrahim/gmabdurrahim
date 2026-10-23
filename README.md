@@ -142,9 +142,6 @@ Explore my GitHub repositories and software work:
 
 ## GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmabdurrahim&layout=compact&theme=transparent&hide_border=true" alt="Most used programming languages" height="165" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=gmabdurrahim&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
