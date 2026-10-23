@@ -143,7 +143,6 @@ Explore my GitHub repositories and software work:
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gmabdurrahim&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub statistics" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmabdurrahim&layout=compact&theme=transparent&hide_border=true" alt="Most used programming languages" height="165" />
 </p>
 
