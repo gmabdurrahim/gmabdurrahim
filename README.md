@@ -1,4 +1,4 @@
-# Hi, I'm G. M. Abdur Rahim ðŸ‘‹
+# Hi, I'm G. M. Abdur Rahim
 
 ### Technical Project Manager | Engineering Lead | AI & Automation
 
@@ -140,7 +140,7 @@ Explore my GitHub repositories and software work:
 - Developing scalable eCommerce solutions and API-driven applications.
 - Connecting engineering execution with business priorities and customer outcomes.
 
-## GitHub Overview
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gmabdurrahim&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub statistics" height="165" />
@@ -150,6 +150,22 @@ Explore my GitHub repositories and software work:
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=gmabdurrahim&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
 </p>
+
+### Recent Contribution Activity
+
+My recent work spans travel technology, SaaS, and PHP-based applications.
+
+| Month | Repository | Commits |
+|---|---|---:|
+| October 2026 | [travelme](https://github.com/gmabdurrahim/travelme) | 25 |
+| October 2026 | [handset](https://github.com/gmabdurrahim/handset) | 9 |
+| October 2026 | [gmabdurrahim](https://github.com/gmabdurrahim/gmabdurrahim) | 3 |
+| October 2026 | [Electronics](https://github.com/gmabdurrahim/Electronics) | 1 |
+| October 2026 | [Teaching-Room-Booking](https://github.com/gmabdurrahim/Teaching-Room-Booking) | 1 |
+| September 2026 | [travelme](https://github.com/gmabdurrahim/travelme) | 8 |
+| September 2026 | [Teaching-Room-Booking](https://github.com/gmabdurrahim/Teaching-Room-Booking) | 4 |
+| September 2026 | [Apshora-Beauty-Parlour](https://github.com/gmabdurrahim/Apshora-Beauty-Parlour) | 1 |
+
 
 ## Let's Connect
 
